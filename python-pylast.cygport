@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-pylast"
-VERSION=1.8.0
+VERSION=2.4.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python interface to Last.fm and Libre.fm"
